@@ -76,7 +76,7 @@ All features are implemented using **Delphi VCL** with a modern DPI-aware interf
 
 ## 📸 Screenshot
 
-![Trainer Preview](https://mul0.com/wp-content/uploads/2025/12/Plants-vs.-Zombies-Replanted-21-mul0-v1.5.1468_2.webp)
+![Trainer Preview](https://mul0.com/wp-content/uploads/2025/12/Plants-vs.-Zombies-Replanted-Trainer-Cover.webp)
 
 ---
 
