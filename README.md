@@ -1,11 +1,11 @@
 # 🌻 Plants vs. Zombies: Replanted Trainer
 
-**Game Version:** v1.5.1468  
+**Game Version:** v1.5.1469  
 **Process:** `Replanted.exe` (64-bit)  
 **Author:** [mul0](https://mul0.com/trainer/plants-vs-zombies-replanted/)  
 **License:** The Unlicense  
 **Language:** Delphi (VCL)  
-**Last Updated:** 14.12.2025  
+**Last Updated:** 12/01/26 8:12:02 PM
 
 ---
 
@@ -16,11 +16,20 @@ All features are implemented using **Delphi VCL** with a modern DPI-aware interf
 
 ---
 
+## 📢 What's New (v1.5.1469 Update)
+
+**Updated January 13, 2026**  
+- Full support for the latest game version **v1.5.1469** (updated from v1.5.1468)  
+- 🎮 **Added gamepad support** for **Seed Panel ID Manager** (F12): now works with controllers (L1/R1 for cycling, R3 for random, etc.)  
+- ⚡ Minor performance improvements and code optimizations for smoother operation  
+
+---
+
 ## 🧩 Game Info
 
 | Game | Version | Process | License Type | Date of Creation |
 |:-----|:---------|:---------|:---------------|:----------------|
-| Plants vs. Zombies: Replanted | v1.5.1468 | Replanted.exe | 64-bit | 14/12/2025 |
+| Plants vs. Zombies: Replanted | v1.5.1469 | Replanted.exe | 64-bit | 12/01/26 8:12:02 PM |
 
 ---
 
